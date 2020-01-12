@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LambdaSchool/SPA-Routing-React"
+    "url": "git+https://github.com/kellswork/React-Films"
   },
   "author": "Lambda School",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LambdaSchool/SPA-Routing-React/issues"
+    "url": "https://github.com/kellswork/React-Films/issues"
   },
-  "homepage": "hhttps://github.com/LambdaSchool/SPA-Routing-React#readme",
+  "homepage": "hhttps://github.com/kellswork/React-Films#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
